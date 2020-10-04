@@ -1,0 +1,277 @@
+Package: com.yourepo.sycosnf.1
+Version: 9.0
+Architecture: iphoneos-arm
+Maintainer: xixixi-ya <2776495731@qq.com>
+Depends: mobilesubstrate
+Filename: deb/com.yourepo.sycosnf.1.deb
+Size: 306214
+MD5sum: 6c02d9b6211347cbc177c971b58fcc16
+SHA1: 13b13981c4083692932c4cdc62b25759df5024ed
+SHA256: a411856b88adb0c81b43dd50649f21600a019cc649be302808d87776ffb6699d
+Section: Packaging
+Description: 腾讯游戏专用腾讯游戏专用腾讯游戏专用腾讯游戏专用腾讯游戏专用
+Author: xixixi-ya <2776495731@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/实用工具.png
+Name: 腾讯游戏专用
+
+Package: com.yourepo.sycosnf.10
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: xixixi-ya <2776495731@qq.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: deb/com.yourepo.sycosnf.10.deb
+Size: 23676
+MD5sum: e95e5ad5438a257ff3d72938af8784a0
+SHA1: b100122cfc2b2b6eb07c0743a9cc7a52a355ea45
+SHA256: 7a70ab87723b9af8902cc6dbf55af0cfdacc90783fa18a33c30fb5281aecc220
+Section: Packaging
+Description: 扫码登陆，扫码登陆扫码登陆扫码登陆扫码登陆扫码登陆扫码登陆
+Author: dingbin <2776495731@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/实用工具.png
+Name: 扫码登陆
+
+Package: com.yourepo.sycosnf.2
+Version: 1.3-1
+Architecture: iphoneos-arm
+Maintainer: xixixi-ya <2776495731@qq.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: deb/com.yourepo.sycosnf.2.deb
+Size: 1243204
+MD5sum: 21db8542433dd048aceced4267c949d6
+SHA1: 79d0e1226c29834154fecbf775be2ed0a9ec4d62
+SHA256: 30506c97c6fcec91e82ab5758c603820a3145a924973bb1a52ee3c16a92a3ad0
+Section: Packaging
+Description: 松鼠平台出库，笑傲江湖直冲插件专用笑傲江湖直冲插件专用笑傲江湖直冲插件专用
+Author: xixixi-ya <2776495731@qq.com>
+Name: 笑傲江湖直冲插件专用
+
+Package: com.yourepo.sycosnf.3
+Version: 1.3-1
+Architecture: iphoneos-arm
+Maintainer: xixixi-ya <2776495731@qq.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: deb/com.yourepo.sycosnf.3.deb
+Size: 1236616
+MD5sum: 051d7d6ab373573d9fa90de9d5aa1f52
+SHA1: 35c8ee4cf89ac89576d7f62cd0f816196eb622d6
+SHA256: a0300fc675c32c5cd16b6c7a2844e0993dc6602a4f8283e0d258d3796452456a
+Section: Packaging
+Description: 松鼠平台出库，松鼠库存直冲松鼠库存直冲松鼠库存直冲
+Author: xixixi-ya <2776495731@qq.com>
+Name: 松鼠库存直冲
+
+Package: com.yourepo.sycosnf.32
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: xixixi-ya <2776495731@qq.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: deb/com.yourepo.sycosnf.32.deb
+Size: 1276542
+MD5sum: fb685a06fa98b5f06b934c71ed04b212
+SHA1: 1b6462e1116aa7e46d1c97c2e622b0eec3d0d2da
+SHA256: a33c235ae37f3685600adf1f4f55a41e96d8799d7c3c119f08fa70854b3a72c9
+Section: Packaging
+Description: 松鼠平台入库无集成，入库兼容版本(32位机器使用,其它勿用)入库兼容版本(32位机器使用,其它勿用)
+Author: xixixi-ya <2776495731@qq.com>
+Name: 入库兼容版本(32位机器使用,其它勿用)
+
+Package: com.yourepo.sycosnf.4
+Version: 1.4-1
+Architecture: iphoneos-arm
+Maintainer: xixixi-ya <2776495731@qq.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: deb/com.yourepo.sycosnf.4.deb
+Size: 1254740
+MD5sum: afd7db6ac58e0528d5cde785f5499cdc
+SHA1: 4afc56fedbe6daa5cce0739534d36605cb959cef
+SHA256: 2a7e483f34f89a69bf2aa164ccf54bc2eebcb032fbc7a4f05cb24d4756aa6959
+Section: Packaging
+Description: 松鼠平台出库魔灵专用，出库(魔灵)出库(魔灵)出库(魔灵)
+Author: xixixi-ya <2776495731@qq.com>
+Name: 出库(魔灵)
+
+Package: com.yourepo.sycosnf.5
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: xixixi-ya <2776495731@qq.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: deb/com.yourepo.sycosnf.5.deb
+Size: 1190962
+MD5sum: 390f36a0a2cd3184e42069516cd4121b
+SHA1: 56fa569d8981b7707fdf9788e617543a70c9e037
+SHA256: 7134b6e27234076c27121ff516e3c1bfe451a30b5555eb3844c8bc9ba93ac715
+Section: Packaging
+Description: 松鼠平台出库命运，松鼠平台出库命运，松鼠平台出库命运，
+Author: xixixi-ya <2776495731@qq.com>
+Name: 出库(命运冠位)
+
+Package: com.yourepo.sycosnf.6
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: xixixi-ya <2776495731@qq.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: deb/com.yourepo.sycosnf.6.deb
+Size: 1187086
+MD5sum: e89b2a695dc0dda83f308302ad2b7cb9
+SHA1: b4d5975e6295ddab60d2921f477b72d22778630b
+SHA256: 38c73c0711beac500544b6c8e008e0fa243447b12920fdbbf0f228b7d916ca99
+Section: Packaging
+Description: 松鼠平台出库无弹窗，无弹窗极速出库版本无弹窗极速出库版本
+Author: xixixi-ya <2776495731@qq.com>
+Name: 无弹窗极速出库版本
+
+Package: com.yourepo.sycosnf.7
+Version: 2.9.2-1
+Architecture: iphoneos-arm
+Maintainer: xixixi-ya <2776495731@qq.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: deb/com.yourepo.sycosnf.7.deb
+Size: 1190558
+MD5sum: 0e5647b837bf2eee3bd40024af562a89
+SHA1: 93c8922e9b959e525e85c57415dd9dfb151b769d
+SHA256: 3e9e59642046942740ec30a00da30921a7b2c366cb79675e68c4bd4ac1315c00
+Section: Packaging
+Description: 松鼠平台出库，通用出库通用出库通用出库，通用出库通用出库通用出库
+Author: xixixi-ya <2776495731@qq.com>
+Name: 通用出库
+
+Package: com.yourepo.sycosnf.8
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: xixixi-ya <2776495731@qq.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: deb/com.yourepo.sycosnf.8.deb
+Size: 1191868
+MD5sum: a0541378a854d5cc80baeb8902bae87f
+SHA1: ea6d6895225d1f77888462508e7568017261ddaf
+SHA256: 25eb795366732ee266d15a4f7293a388f36a2b13a460c81cdafbf48b42d9116c
+Section: Packaging
+Description: 松鼠平台入库专用，入库凭证找回(慎用)入库凭证找回(慎用)
+Author: xixixi-ya <2776495731@qq.com>
+Name: 入库凭证找回(慎用)
+
+Package: com.yourepo.sycosnf.9
+Version: 2.1.9-1
+Architecture: iphoneos-arm
+Maintainer: xixixi-ya <2776495731@qq.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: deb/com.yourepo.sycosnf.9.deb
+Size: 1304280
+MD5sum: 958e004d97e63d66c66a2f0de432b67e
+SHA1: dced8a61bf1250f68b6cb259339193492447dcb3
+SHA256: 309570d1eb8a277b91d62bf8e0a15f01912ebe888b02e3ec14b56022e2e7f9ba
+Section: Packaging
+Description: 松鼠平台入库，松鼠库存入库松鼠库存入库松鼠库存入库松鼠库存入库
+Author: xixixi-ya <2776495731@qq.com>
+Name: 松鼠库存入库
+
+Package: com.yourepo.sycosnf.afc2ios7---13
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: cy+cpu.arm64, mobilesubstrate, ldid
+Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Filename: deb/com.yourepo.sycosnf.afc2ios7---13.deb
+Size: 20514
+MD5sum: e5e6c601ecdbf2450a5d4ff2e81fa07d
+SHA1: 79a050b12d9e891df866f45d94db439a99e91bf8
+SHA256: 84cc420e668cc451956b2601c1094ff1a5dafc76cb6ab9224cc723b47bc38b7d
+Section: Packaging
+Description: 激活PC端，全路径访问，最新版本，适配所有版本手机越狱
+Author: saurik, Cannathea <csupport@cannathea.com>
+Icon: songshu
+Name: AFC2 IOS 7---13系统路径
+
+Package: com.yourepo.sycosnf.caiji
+Version: 0.0.1-18
+Architecture: iphoneos-arm
+Maintainer: admin <2776495731@qq.com>
+Depends: mobilesubstrate
+Filename: deb/com.yourepo.sycosnf.caiji.deb
+Size: 36730
+MD5sum: a4b6e1fbd6d5e94cd74804d1f5c68f55
+SHA1: c2be19e053b7e27ce45accd56691707d7e6d6108
+SHA256: 40cf6ef0a1cc2717637bcba2b542656f493d3c2983dc1fdded7c20c6776fc906
+Section: Packaging
+Description: 档位采集档位采集档位采集档位采集档位采集档位采集档位采集档位采集档位采集
+Author: admin <2776495731@qq.com>
+Name: caiji
+
+Package: com.yourepo.sycosnf.lixianruku
+Version: 0.0.3-93
+Architecture: iphoneos-arm
+Maintainer: admin <2776495731@qq.com>
+Depends: mobilesubstrate
+Filename: deb/com.yourepo.sycosnf.lixianruku.deb
+Size: 48054
+MD5sum: 275bea5cc7d8b46771d16ffcd0d4d692
+SHA1: 847b8681d425cfa8ccdfb04dd72a06dc8f64d851
+SHA256: 4e8e6a272ace48503a1a637c90d197095ce2b749705111f5de0dc79a949d278b
+Section: Packaging
+Description: 离线入库版，离线入库版，，离线入库版，离线入库版，离线入库版，离线入库版，
+Author: admin <2776495731@qq.com>
+Name: lixianruku
+
+Package: com.yourepo.sycosnf.proxymanager
+Version: 1.0-8
+Architecture: iphoneos-arm
+Maintainer: iDevid <repo@hackyouriphone.org>
+Depends: firmware (>= 5.0), preferenceloader (>= 2.2.2)
+Filename: deb/com.yourepo.sycosnf.proxymanager.deb
+Size: 217430
+MD5sum: 4bcd4b9229533c2974b4f2d475182f2d
+SHA1: e5a352f79cc670c9e131ff901e1a715c8e8cd462
+SHA256: 7d6ce18d1ef7de677c5c4ca2fad24267c261e53884c9b997c980aa892479b73e
+Section: Packaging
+Description: ProxyManagerProxyManagerProxyManagerProxyManagerProxyManager
+Author: xixixi-ya <2776495731@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/实用工具.png
+Name: ProxyManager
+
+Package: com.yourepo.sycosnf.qq
+Version: 1.2-1
+Architecture: iphoneos-arm
+Maintainer: xixixi-ya <2776495731@qq.com>
+Pre-Depends: firmware (>= 5), firmware (<= 13)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: deb/com.yourepo.sycosnf.qq.deb
+Size: 1189900
+MD5sum: 2161427ab7352ca87bc71ed0df54dca9
+SHA1: 5582b6724175e421737b0ecf7933477990e90a97
+SHA256: 8a609b889d9172edc11232af24b07284ad5e79f15216259b1bde2090606680ed
+Section: Packaging
+Description: 松鼠出库QQ测试，出库(QQ开发者)出库(QQ开发者)
+Author: xixixi-ya <2776495731@qq.com>
+Name: 出库(QQ开发者)
+
+Package: com.yourepo.sycosnf.xapp
+Version: 1.0.0-17
+Architecture: iphoneos-arm
+Maintainer: xixixi-ya <2776495731@qq.com>
+Depends: mobilesubstrate
+Filename: deb/com.yourepo.sycosnf.xapp.deb
+Size: 7410
+MD5sum: eab6597aa47e7bea9980b76896fe41ec
+SHA1: 50e1058ed977c6ba79eddf6c2913d0aa649af5a2
+SHA256: 064dcca67e2ca38b329d51bb73f63c2d4c8a8e1f138233a86512e205b78ac036
+Section: Packaging
+Description: 防越狱检测，xApp(防越狱)xApp(防越狱)xApp(防越狱)xApp(防越狱)
+Author: xixixi-ya <2776495731@qq.com>
+Name: xApp(防越狱)
+
+Package: com.yourepo.sycosnf.zzzzz
+Version: 1.0.0-39
+Architecture: iphoneos-arm
+Maintainer: admin <2776495731@qq.com>
+Depends: mobilesubstrate
+Filename: deb/com.yourepo.sycosnf.zzzzz.deb
+Size: 40722
+MD5sum: 5fa02d5495c4d2f5fcad175e36df0fd9
+SHA1: f49ba4604086de0bf8d8ed8de5abcf514d5884dd
+SHA256: 365cd049b2cf4a9a8af072e2776295ddc1261434bd7deeb5deafcf03708727f1
+Section: Packaging
+Description: 屏蔽越狱检测增强版，屏蔽越狱检测增强版屏蔽越狱检测增强版屏蔽越狱检测增强版
+Author: admin <2776495731@qq.com>
+Name: zzzzz
+

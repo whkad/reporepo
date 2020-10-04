@@ -1,0 +1,96 @@
+﻿<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0,user-scalable=no,minimal-ui">
+    <title>403</title>
+    <link rel="stylesheet" type="text/css" href="css/1.css">
+</head>
+  
+  <body>
+    <h1>403</h1>
+    <div>
+      <p>>
+        <span>ERROR CODE</span>: "
+        <i>HTTP 403 Forbidden</i>"</p>
+      <p>>
+        <span>ERROR DESCRIPTION</span>: "
+        <i>Access Denied. You Do Not Have The Permission To Access This Page On This Server</i>"</p>
+      <p>>
+        <span>ERROR POSSIBLY CAUSED BY</span>: [
+        <b>execute access forbidden, read access forbidden, write access forbidden, ssl required, ssl 128 required, ip address rejected, client certificate required, site access denied, too many users, invalid configuration, password change, mapper denied access, client certificate revoked, directory listing denied, client access licenses exceeded, client certificate is untrusted or invalid, client certificate has expired or is not yet valid, passport logon failed, source access denied, infinite depth is denied, too many requests from the same client ip</b>...]</p>
+        <span>HAVE A NICE DAY SIR :-)</span></p>
+    </div>
+
+    <script>var str = document.getElementsByTagName('div')[0].innerHTML.toString();
+      var i = 0;
+      document.getElementsByTagName('div')[0].innerHTML = "";
+      setTimeout(function() {
+        var se = setInterval(function() {
+          i++;
+          document.getElementsByTagName('div')[0].innerHTML = str.slice(0, i) + "|";
+          if (i == str.length) {
+            clearInterval(se);
+            document.getElementsByTagName('div')[0].innerHTML = str;
+          }
+        },
+        10);
+      },
+      0);
+</script>
+ <script>
+<!--禁止调试-->
+document.onkeydown=function(){
+    var e = window.event||arguments[0];
+    if(e.keyCode==123){
+    	alert('请尊重劳动成果！');
+            return false;
+    }else if((e.ctrlKey)&&(e.shiftKey)&&(e.keyCode==73)){
+    	alert('请尊重劳动成果！');
+            return false;
+    }else if((e.ctrlKey)&&(e.keyCode==85)){
+            alert('请尊重劳动成果！');
+            return false;
+    }else if((e.ctrlKey)&&(e.keyCode==83)){
+           alert('请尊重劳动成果！');
+           return false;
+    }
+}
+document.oncontextmenu=function(){
+	alert('Ctrl+C吧，我没禁止那玩意，别用右键了');
+    return false;
+}
+
+</script>
+ <script>
+(function noDebuger() {
+
+    function testDebuger() {
+        var d = new Date();
+        debugger;
+        if (new Date() - d > 10) {
+            document.body.innerHTML = '<div style="width: 100%;height: 50px;font-size: 30px;text-align: center;color:#c0ffff;font-weight: bold;">嗯？不是吧403界面也看？？？也对，做的挺好看的。</div>';
+            return true;
+        }
+        return false;
+    }
+
+    function start() {
+        while (testDebuger()) {
+            testDebuger();
+        }
+    }
+
+    if (!testDebuger()) {
+        window.onblur = function () {
+            setTimeout(function () {
+                start();
+            }, 500)
+        }
+    }else {
+        start();
+    }
+
+})();
+    </script>
+  </body>
+</html>
